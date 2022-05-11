@@ -182,7 +182,7 @@ amzn.copilot.checkCoPilotSession();
             <input type="password" maxlength="1024" id="ap-credential-autofill-hint" name="password" class="a-input-text hide">
             
 <div id="auth-email-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message a-spacing-top-mini" role="alert"><div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
-  Saisissez votre adresse e-mail ou numéro de téléphone portable
+  Veuillez saisir votre adresse mail ou votre numéro de téléphone
 </div></div></div>
 
           </div>
