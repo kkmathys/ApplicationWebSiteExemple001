@@ -356,22 +356,11 @@ amzn.copilot.checkCoPilotSession();
     </a>
     <span class="auth-footer-seperator"></span>
   
-
-  
 </div>
 
-
-
-
 <div class="a-section a-spacing-none a-text-center">
-  
-
-
-
-
-
-<span class="a-size-mini a-color-secondary">
-  © 1996-2022, kmex.com Inc. ou ses affiliés
+  <span class="a-size-mini a-color-secondary">
+  © 2011-2022, kmex.com Inc. ou ses affiliés
 </span>
 
 </div>
